@@ -3,11 +3,11 @@
     {
       "tensorName": "My tensor",
       "tensorShape": [
-        1000,
-        50
+        3000,
+        1024
       ],
-      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv"
+      "tensorPath": "https://gist.githubusercontent.com/HTjung/ee8790ce6b4e75019d148f46fef98e3c/raw/61c4e72d788df8c85ca739780a7c9fafae182055/embeddings.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/HTjung/ee8790ce6b4e75019d148f46fef98e3c/raw/61c4e72d788df8c85ca739780a7c9fafae182055/dictionary.tsv"
     }
   ]
 }
